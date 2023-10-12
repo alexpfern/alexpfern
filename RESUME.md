@@ -1,0 +1,7 @@
+﻿# Alexander Fernandes's Resume
+
+## Education
+
+**Northeastern University**, Khoury College of Computer Sciences
+*Candidate: Bachelor of Science in Computer Science and Music Technology*
+Boston, MA | Sept 2023 - May 2027
